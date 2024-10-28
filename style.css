@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.main{
+    display: flex;
+
+}
+.flag img{
+height: 300px;
+width: 300px;
+
+}
+.native {
+    margin-top: 10px;
+    
+}
+.belgium{
+    margin-left: 20px;
+    /* font-size: larger; */
+}
+.top{
+    margin-top: 70px;
+    margin-left: 50px;
+}
+span{
+    font-size: 20px;
+}
+.inputbox{
+    height: 2.5rem;
+    width: 20rem;
+    margin-left: 25rem;
+    margin-top: 2rem;
+    border: 2px solid black;
+    
+}
